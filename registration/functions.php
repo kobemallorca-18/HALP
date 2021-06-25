@@ -7,6 +7,8 @@ $db = mysqli_connect('localhost', 'root', '', 'multi_login');
 // variable declaration
 $username = "";
 $email    = "";
+$password_1 = "";
+$password_2 = "";
 $errors   = array(); 
 
 // call the register() function if register_btn is clicked
