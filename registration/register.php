@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<div>
+<div class="container-sm">
 
 <div class="header">
 	<h2>Register</h2>
