@@ -17,11 +17,6 @@
 	<?php echo display_error(); ?>
 
 <div class="input-group">
-
-		<label>Username</label>
-		<input type="text" name="username" value="<?php echo $username; ?>">
-
-	
 	<div class="input-group row">
 		<div class="col-2"><label>Username</label></div>
 		<div class="col-8"><input type="text" name="username" value="<?php echo $username; ?>"></div>
