@@ -16,7 +16,7 @@
 <form method="post" action="register.php">
 	<?php echo display_error(); ?>
 
-<div class="input-group">
+
 	<div class="input-group row">
 		<div class="col-2"><label>Username</label></div>
 		<div class="col-12"><input type="text" name="username" value="<?php echo $username; ?>"></div>
