@@ -36,10 +36,11 @@
 	</div>
 	<div class="input-group mx-auto" style="text-align: center;">
 		<button type="submit" class="btn" name="register_btn">Register</button>
-	</div>
-	<p>
+		<p>
 		Already a member? <a href="login.php">Sign in</a>
-	</p>
+		</p>
+	</div>
+	
 </div>
 </form>
 </body>
