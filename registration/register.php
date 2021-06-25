@@ -6,36 +6,26 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<<<<<<< Updated upstream
-<div>
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
+<div>
+
 <div class="header">
 	<h2>Register</h2>
 </div>
 
-=======
->>>>>>> Stashed changes
 <form method="post" action="register.php">
 	<?php echo display_error(); ?>
-<<<<<<< Updated upstream
-</form>
-<form method="post" action="register.php">
-<<<<<<< Updated upstream
-	<div class="input-group">
-=======
+
 <div class="input-group">
->>>>>>> Stashed changes
+
 		<label>Username</label>
 		<input type="text" name="username" value="<?php echo $username; ?>">
-=======
+
 	
 	<div class="input-group row">
 		<div class="col-2"><label>Username</label></div>
 		<div class="col-8"><input type="text" name="username" value="<?php echo $username; ?>"></div>
->>>>>>> Stashed changes
+
 	</div>
 	<div class="input-group">
 		<div class="col-2"><label>Email</label></div>
