@@ -34,7 +34,7 @@
 		<div class="col-2"><label>Confirm password</label></div>
 		<div class="col-12"><input type="password" name="password_2"></div>
 	</div>
-	<div class="input-group mx-auto">
+	<div class="input-group mx-auto" style="text-align: center;">
 		<button type="submit" class="btn" name="register_btn">Register</button>
 	</div>
 	<p>
