@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div>
 <div class="header">
 	<h2>Register</h2>
 </div>
@@ -35,6 +36,7 @@
 	<p>
 		Already a member? <a href="login.php">Sign in</a>
 	</p>
+</div>
 </form>
 </body>
 </html>
