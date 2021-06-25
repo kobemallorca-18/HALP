@@ -6,15 +6,24 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<<<<<<< Updated upstream
 <div>
+=======
+
+>>>>>>> Stashed changes
 <div class="header">
 	<h2>Register</h2>
 </div>
+
 <form method="post" action="register.php">
 	<?php echo display_error(); ?>
+<<<<<<< Updated upstream
 </form>
 <form method="post" action="register.php">
 	<div class="input-group">
+=======
+<div class="input-group">
+>>>>>>> Stashed changes
 		<label>Username</label>
 		<input type="text" name="username" value="<?php echo $username; ?>">
 	</div>
